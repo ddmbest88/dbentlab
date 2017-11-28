@@ -169,7 +169,7 @@ if (isset($_POST['cerca'])){
 			echo"</tr>";
 			 
 			}
-		echo "<table>";}else{if(isset($_POST['multiple'])){$passaruolo=$ruolo;header("refresh:1;url=./query.php?ruolo=".$_GET['ruolo']."&username="$_GET['username']);}}
+		echo "<table>";}else{if(isset($_POST['multiple'])){$passaruolo=$ruolo;header("refresh:1;url=./query.php?ruolo=".$_GET['ruolo']."&username=".$_GET['username']);}}
 
 		if(isset($_GET['ID'])&& $_GET['azione']=="sposta"){
 		if($_GET['ruolo']=="administrator"||$_GET['ruolo']=="amministratoreunico"||$_GET['ruolo']=="supervisore"||$_GET['ruolo']=="generalmanager"){
