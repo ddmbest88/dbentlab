@@ -1,0 +1,6 @@
+fix effettuati:
+
+finaldestination.php
+
+fixato rawurldecode su provenineza e destinazione
+tasto sposta in magazzino non riportava username indietro.

@@ -1,0 +1,41 @@
+.header {
+font-family:"Arial";
+	font-size: 90%;
+}
+
+.body{
+	font-family:"Arial";
+	font-size: 90%;
+}
+.table{
+	font-size: 80%;
+	border-collapse: separate;
+}
+td.table{
+	padding: 20px 0;
+}
+.ui-widget-content {
+    border: 1px solid #aaaaaa;
+    background: #ffffff url(images/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;
+    color: #222222;
+}
+.ui-datepicker .ui-datepicker-title {
+    margin: 0 2.3em;
+    line-height: 1.8em;
+    text-align: center;
+}
+.ui-widget-header {
+    color: #222222;
+    font-weight: bold;
+}
+.ui-widget-content {
+    color: #222222;
+}
+.techpage {
+	font-family:"Arial";
+	font-size: 90%;
+}
+.maintechadd {
+	font-family:"Arial";
+	font-size: 90%;
+}
